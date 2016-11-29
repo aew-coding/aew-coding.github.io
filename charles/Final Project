@@ -1,1 +1,60 @@
+<!doctype html>
+<html>
+<head>
+<title>Charlie</title>
+	
+<style>
+body {
+	color: blue;
+	text-align: center;
+	font-style: italic;
+	font-size: 20px;
+	border-style: solid;
+	background-image: url(http://d21vu35cjx7sd4.cloudfront.net/dims3/MMAH/thumbnail/645x380/quality/90/?url=http%3A%2F%2Fs3.amazonaws.com%2Fassets.prod.vetstreet.com%2F3a%2F54%2F5ae8bfcc41b381c27a792e0dd891%2FAP-KWDHXS-645sm8113.jpg)
+	}
+	
+	.pugs {
+  color: red;
+}
+.morepugs {
+  color: #ff00fa;
+}
+#IFREAKINLOVEPUGS {
+  font-size: 50px;
+  background-color: blue;
+  color: white;
+  border-style: solid;
+  border-color: red;
+  border-width: 50px;
+}
+</style>
 
+</head>
+	
+<body>
+	<h1>HARAMBE</h1>
+	<h1>HARAMBE</h1>
+	<h1>HARAMBE</h1>
+	<h1>HARAMBE</h1>
+	<h1>HARAMBE</h1>
+	<h1>HARAMBE</h1>
+	<p>HARAMBE</p>
+	<br>
+	<br>
+	<img src="http://kids.nationalgeographic.com/content/dam/kids/photos/animals/Mammals/H-P/pig-full-body.jpg.adapt.945.1.jpg"/>
+
+	<a href="https://www.americanexpress.com">FREE PORK</a>
+	<marquee> POOOOOOOOOOOOOORRRRRRRKKKKKKKKK </marquee>
+	<marquee> <img src="http://kids.nationalgeographic.com/content/dam/kids/photos/animals/Mammals/H-P/pig-full-body.jpg.adapt.945.1.jpg"/> </marquee>
+	<marquee> <a href="http://www.americangirl.com">MORE FREE PORK</a> </marquee>
+<div>
+	<div class="pugs">PUGS</div>
+	<div class="morepugs">PUGS ARE AWESOME</div>
+	<div id="IFREAKINLOVEPUGS">I FREAKIN' LOVE PUGS</div>
+
+</div>
+	<h1>WHY Pugs are AWESOME</h1>
+	<li>They are adorable</li>
+	<li>They are adorable</li>
+	</body>
+</html>
