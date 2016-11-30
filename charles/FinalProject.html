@@ -1,12 +1,8 @@
-function wpb_alter_comment_form_fields($fields) {
-$fields['author'] = '<p class="comment-form-author">' . '<label for="author">' . __( 'Name (Optional)' ) . '</label> ' . ( $req ? '<span class="required">*</span>' : '' ) .
-'<input id="author" name="author" type="text" value="' . esc_attr( $commenter['comment_author'] ) . '" size="30"' . $aria_req . ' /></p>';
-// Modify Email Field and show that it's Optional
-$fields['email'] = '<p class="comment-form-email"><label for="email">' . __( 'Email (Optional)', 'twentythirteen' ) . '</label> ' .
-      ( $req ? '<span class="required">*</span>' : '' ) .
-      '<input id="email" name="email" type="text" value="' . esc_attr(  $commenter['comment_author_email'] ) .
-      '" size="30"' . $aria_req . ' /></p>'; 
-      $fields['url'] = '';
-    return $fields;
-}
-add_filter('comment_form_default_fields', 'wpb_alter_comment_form_fields');
+<!doctype>
+<html>
+  <h1>I don't like pugs</h1>
+  <h1>I actually LOVE pugs</h1>
+  <h1>Pugs are so cute</h1>
+  <a href="http://www.i-love-pugs.com">Heres a website to learn more about pugs</a>
+  <marquee>PUGS<marquee>
+</html>
