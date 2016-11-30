@@ -2,7 +2,8 @@
 <h1>Welcome to the wonderful world of anteaters!!!!!</h1>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Myrmecophaga_tridactyla_-Detroit_Zoo,_Michigan,_USA-8a.jpg"/>
 <marquee>SO CUUUTE!!!</marquee>
-<div id="ant1" ANteeaters are wonderful and are the best! </div>
+</html>
+<div id="ant1" Anteaters are wonderful and are the best! </div>
                #ant1{
                background-color: #780b82;
                width: 100px;
@@ -10,4 +11,4 @@
                border-color: green;
                border-style: dotted;
                }
-</html>
+
