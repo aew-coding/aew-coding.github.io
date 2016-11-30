@@ -4,13 +4,16 @@
 <marquee>SO CUUUTE!!!</marquee>
 <h2> Did you know anteaters have no teeth?</h2>
 <h5>Anteaters sleep 15 hours a day!!!! Isn't that cool!</h5>
+<h3> Silk anteaters are the size of a squirrel!!! Isn't that cute!</h3>
+<img src="http://4.bp.blogspot.com/-zKUSL7RBWEM/VFuEJqXuP4I/AAAAAAAAG88/xB69L7ffx-8/s1600/Cyclopes%2Bdidactylus%2Bon%2Ba%2Bstick.jpg"/>
+
 </html>
 <div id="ant1" Anteaters are wonderful and are the best! </div>
                #ant1{
-               background-color: #780b82;
+               background-color:#780b82;
                width: 100px;
                length: 100px;
-               border-color: green;
-               border-style: dotted;
+               border-color:green;
+               border-style:dotted;
                }
 
