@@ -1,35 +1,14 @@
 function wpb_alter_comment_form_fields($fields) {
-02
- 
-03
 // Modify Name Field and show that it's Optional
-04
 $fields['author'] = '<p class="comment-form-author">' . '<label for="author">' . __( 'Name (Optional)' ) . '</label> ' . ( $req ? '<span class="required">*</span>' : '' ) .
-05
 '<input id="author" name="author" type="text" value="' . esc_attr( $commenter['comment_author'] ) . '" size="30"' . $aria_req . ' /></p>';
-06
- 
-07
 // Modify Email Field and show that it's Optional
-08
 $fields['email'] = '<p class="comment-form-email"><label for="email">' . __( 'Email (Optional)', 'twentythirteen' ) . '</label> ' .
-09
       ( $req ? '<span class="required">*</span>' : '' ) .
-10
       '<input id="email" name="email" type="text" value="' . esc_attr(  $commenter['comment_author_email'] ) .
-11
       '" size="30"' . $aria_req . ' /></p>';
-12
- 
-13
-// This line removes the website URL from comment form.      
-14
+// This line removes the website URL from comment form.     
       $fields['url'] = '';
-15
- 
-16
     return $fields;
-17
 }
-18
 add_filter('comment_form_default_fields', 'wpb_alter_comment_form_fields');
