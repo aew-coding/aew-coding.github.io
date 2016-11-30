@@ -8,6 +8,7 @@
 <img src="http://4.bp.blogspot.com/-zKUSL7RBWEM/VFuEJqXuP4I/AAAAAAAAG88/xB69L7ffx-8/s1600/Cyclopes%2Bdidactylus%2Bon%2Ba%2Bstick.jpg"/>
 
 </html>
+<style>
 <div id="ant1" Anteaters are wonderful and are the best! </div>
                #ant1{
                background-color:#780b82;
@@ -15,5 +16,6 @@
                length: 100px;
                border-color:green;
                border-style:dotted;
+              font-size: 10 px;
                }
-
+<style>
