@@ -1,3 +1,15 @@
+# Thank You!
+
+Great job on a successful first semester! 
+
+You all now know more than most kids your age; we see a bright future in all of you! It's an incredible opportunity for you to have began coding this young; use these skills to help you pursue your passion in life.
+
+Thank you so much for giving us an opportunity to teach you all – we enjoyed it!
+
+Keep dreaming and staying motivated, because you can do _anything_ you set your mind on.
+
+– Micah & Arvin
+
 # aew-coding.github.io
 
 Help files are located here: https://github.com/aew-coding/aew-coding.github.io/tree/master/help
