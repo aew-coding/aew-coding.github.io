@@ -1,2 +1,36 @@
 <html>
+  <head>
+    <title>The Two Possible Formulas</title>
+    <style>
+      h1{
+        text-align: center;}
+  </head>
+  <body>
+    <h1>How Formulas Work Two Ways</h1>
+    <br>
+    <br>
+    <p>Formulas can work two ways but one things for sure: you still get the same answer. For years of math study, it was the 
+    right answer that mattered in math, not weather or not you get it. But with Common Core, that is the main focus as their
+    argument is that it will be more difficult to use formulas if you don't understand them, which is a way to remember them.
+    Today, we will look at both formulas and leave it to you to decide which one is easier to remember.</p>
+    <br>
+    <h3>Original Way:</h3>
+    <ol>
+      <li>Follow individual formulas.</li>
+      <li>Annotate the problem.</li>
+     </ol>
+     <br>
+     <h3>Common Core:</h3>
+     <br>
+     <ol>
+      <li>Make sense of problems</li>
+      <li>Reason.</li>
+      <li>Prove that you're right.</li>
+      <li>Do it ANOTHER way. (like maybe the original way!)</li>
+      <li>No! You must use base ten blocks!</li>
+      <li>Use a ruler. (but what about simple addition!)</li>
+      <li>Prove that you're right again.</li>
+      <li>Write an essay about it.</li>
+     <ol>
+  </body>
 </html>
