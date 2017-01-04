@@ -1,0 +1,152 @@
+'Declare the global variables to be used throughout the form
+Dim mfirst As Single
+Dim msecond As Single
+Dim manswer As Single
+' Declare the global variables for the operators: Add,Sub,Mul and DIV
+Dim mbutton As Integer
+'Change the sign of the number from + or - or vice versa
+' Depending on its state now they show in txtNUMBER text box
+Dim Signstate As Boolean
+
+
+
+
+
+Private Sub cmd0_Click()
+'Put the value 0 into the txtNUMBER text box
+txtNUMBER = txtNUMBER + "0"
+End Sub
+
+Private Sub cmd1_Click()
+'Put the value 1 into the txtNUMBER text box
+txtNUMBER = txtNUMBER + "1"
+End Sub
+
+Private Sub cmd2_Click()
+'Put the value 2 into the txtNUMBER text box
+txtNUMBER = txtNUMBER + "2"
+End Sub
+
+Private Sub cmd3_Click()
+'Put the value 3 into the txtNUMBER text box
+txtNUMBER = txtNUMBER + "3"
+End Sub
+
+Private Sub cmd4_Click()
+'Put the value 4 into the txtNUMBER text box
+txtNUMBER = txtNUMBER + "4"
+End Sub
+
+Private Sub cmd5_Click()
+'Put the value 5 into the txtNUMBER text box
+txtNUMBER = txtNUMBER + "5"
+End Sub
+
+Private Sub cmd6_Click()
+'Put the value 6 into the txtNUMBER text box
+txtNUMBER = txtNUMBER + "6"
+End Sub
+
+Private Sub cmd7_Click()
+'Put the value 7 into the txtNUMBER text box
+txtNUMBER = txtNUMBER + "7"
+End Sub
+
+Private Sub cmd8_Click()
+'Put the value 8 into the txtNUMBER text box
+txtNUMBER = txtNUMBER + "8"
+End Sub
+
+Private Sub cmd9_Click()
+'Put the value 9 into the txtNUMBER text box
+txtNUMBER = txtNUMBER + "9"
+End Sub
+
+Private Sub cmdADD_Click()
+'User slected the add button
+mbutton = 1
+'Convert into a number and transfer the value from
+'The text box on the form into the first number
+mfirst = Val(txtNUMBER)
+
+txtNUMBER = ""
+End Sub
+
+Private Sub cmdCANCEL_Click()
+'Remove the values in the txtNUMBER text box
+txtNUMBER = " "
+End Sub
+
+Private Sub cmdDIVIDE_Click()
+'User slected the Divide button
+mbutton = 4
+'Convert into a number and transfer the value from
+'The text box on the form into the first number
+mfirst = Val(txtNUMBER)
+
+txtNUMBER = ""
+End Sub
+
+Private Sub cmdDOT_Click()
+txtNUMBER = txtNUMBER + "."
+End Sub
+
+Private Sub cmdEQUALS_Click()
+msecond = Val(txtNUMBER)
+
+Select Case mbutton
+Case Is = 1
+manswer = mfirst + msecond
+Case Is = 2
+manswer = mfirst - msecond
+Case Is = 3
+manswer = mfirst * msecond
+Case Is = 4
+manswer = mfirst / msecond
+End Select
+txtNUMBER = manswer
+End Sub
+
+Private Sub cmdEXIT_Click()
+Unload frmCALCULATOR
+End Sub
+
+Private Sub cmdMULTIPLY_Click()
+'User slected the multiply button
+mbutton = 3
+'Convert into a number and transfer the value from
+'The text box on the form into the first number
+mfirst = Val(txtNUMBER)
+
+txtNUMBER = ""
+End Sub
+
+Private Sub cmdSIGN_Click()
+'Sign state = false on load of form
+If txtNUMBER = "-" + txtNUMBER Then
+    MsgBox "error start again"
+End If
+If Signstate = False Then
+txtNUMBER = "-" + txtNUMBER
+Signstate = True
+Else
+'SignState = True
+
+minusvalue = Val(txtNUMBER)
+'Value now positive
+minusvalue = Val("-1" * minusvalue)
+txtNUMBER = minusvalue
+Signstate = False
+
+End If
+End Sub
+
+Private Sub cmdSUBTRACT_Click()
+'User slected the minus button
+mbutton = 2
+'Convert into a number and transfer the value from
+'The text box on the form into the first number
+mfirst = Val(txtNUMBER)
+
+txtNUMBER = ""
+End Sub
