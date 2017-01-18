@@ -5,13 +5,16 @@
         h1{
         color: #c486e8;
         font-weight:bold;
-        font-style: italics;
         font-family: Courier;
-        font-size: 140 px;
+        font-size: 150 px;
         }
         </style
       </head>
    </body>
    <h1>Dessert Dreams</h1>
-   
+<video width="320" height="240" controls>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+</video>   
 </html>
