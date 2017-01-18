@@ -2,7 +2,9 @@
  <head>
   <style>
    h1 {
-    font
+    color: red;
+    font-weight: bold;
+    font-family: 'Helvetica Neue';
    }
   </style>
  </head>
