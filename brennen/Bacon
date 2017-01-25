@@ -1,0 +1,20 @@
+<html>
+<head>
+<body>
+<div class="cotten">
+<a href="/"
+<img src"https://upload.wikimedia.org/wikipedia/commons/3/31/Made20bacon.png"/>
+</a>
+<h1>The Coding Class!!!</h1>
+<ul class = "nav">
+<li><a href="index.html">Home</a></li>
+<li><a href="about.html">About us</a></li>
+<li><a href="gallery.html">Gallery</a></li>
+<li><a href="contact.html">Contact Us</a></li>
+<li>Home</li>
+<li>About Us</li>
+<li>Gallery</li>
+<li>Contact Us</li>
+</body>
+</head>
+</html>
