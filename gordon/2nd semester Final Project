@@ -1,6 +1,11 @@
 <html>
-<head>
+<head><h1>Hello. I see you've stumbled upon my website.
 <body>
+<style>
+body{
+background-color:#7ed4fc
+}
+</style>
 <div class="taco">
 <a href="/">
 <img src="http://animal-dream.com/data_images/penguin/penguin2.jpg"/>
