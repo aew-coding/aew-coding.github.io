@@ -1,13 +1,17 @@
 <html>
-
-<title> Urban Legends</title>
-
 <head>
-
-<boby>
-backround-color:red;
-color: white:
-border-color:gray
-</head>
-
+<body>
+<div class="header">
+<a href="/">
+<ing src"https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwioyrnCsd7RAhUnilQKHR1CCvsQjRwIBw&url=https%3A%2F%2Furbanlegendsbp.wordpress.com%2F&bvm=bv.145063293,d.cGw&psig=AFQjCNFQnOF9HWsHrFMrh1HSWIZM2609Mw&ust=1485471145425523"/>
+</a>
+<h1>Urban Legends</h1>
+<ul class = "nav">
+<li><a href="index.html">Home</a></li>
+<li><a href="about.html">About Us</a></li>
+<li><a href="gallery.html">Gallery</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
 </body>
+</head>
+</html>
