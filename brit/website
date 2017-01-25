@@ -2,7 +2,8 @@
 <head>
 <style>
 body{
-background-color:green
+background-color:green;
+color:blue;
 }
 </style>
 </head>
