@@ -1,0 +1,17 @@
+<html>
+<head>
+<body>
+<div class="taco">
+<a href="/">
+<img src="http://animal-dream.com/data_images/penguin/penguin2.jpg"/>
+</a>
+<h1>Penguin Lover Forever.com</h1>
+<u1 class = "noot">
+<li><a href="index.html">Home</a></li>
+<li><a href="index.html">Doccumentary</a></li>
+<li><a href="index.html">About us</a></li>
+<li><a href="index.html">Photo Album</a></li>
+</u1>
+</body>
+</head>
+</html>
