@@ -1,4 +1,5 @@
-.header img [width 100px;
+.header img {
+width 100px;
 hight 100px;
 float: left;
-]
+}
