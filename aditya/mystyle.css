@@ -10,8 +10,10 @@
   float: left;
   margin-left: 10px;
   width: 640px;
-  
-  
+}
+
+ul{
+  clear: both;
 }
 
     
