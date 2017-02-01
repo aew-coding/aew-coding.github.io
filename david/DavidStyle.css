@@ -1,5 +1,8 @@
 .header img {
-width 100px;
-hight 100px;
-float: left;
+  width 100px;
+  hight 100px;
+  float: left;
+}
+
+.header h1 {font-family:  sans-serif;
 }
