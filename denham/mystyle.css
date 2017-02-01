@@ -3,16 +3,15 @@ float: left;
 
 }
 .header h1 {
-  font-family: helvetica;
+  font-family: Arial;
 }
 
 ul{
 clear: both;
-
-
-
 }
-
+.nav li{
+ list-style-type: none;  
+}
 
 
 
