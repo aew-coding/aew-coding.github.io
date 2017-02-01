@@ -1,10 +1,6 @@
 <html>
 <head>
-<style>
-body{
-background-color:red;
-}
-</style>
+<link rel = "stylesheet" type = "text/css" href = "mystyle.css">
 <body>
 <div class="header">
 <a href="/">
