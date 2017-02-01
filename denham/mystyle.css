@@ -4,6 +4,7 @@ float: left;
 }
 .header h1 {
   font-family: Arial;
+  float: top;
 }
 
 ul{
