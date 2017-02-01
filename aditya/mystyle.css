@@ -16,6 +16,12 @@ ul{
   clear: both;
 }
 
+.nav li {
+  list-style-type: none;
+  display: inline;
+  padding-left: 5px;
+  
+}
     
     
     
