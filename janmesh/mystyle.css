@@ -3,3 +3,9 @@
   height: 100px;
   float: left;
 }
+
+.header h1 {
+font-family: sans-serif;
+  float: left;
+  margin-left: 10px;
+}
