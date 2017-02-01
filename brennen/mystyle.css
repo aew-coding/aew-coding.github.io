@@ -1,5 +1,12 @@
 .header img {
   width: 400px;
   height: 400px;
-  float: right;
+  float: left;
+}
+
+.header h1 {
+ font-family: sans-serif;
+  float: left;
+  margin-left; 10px
+  width: 640px
 }
