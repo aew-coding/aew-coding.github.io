@@ -4,11 +4,6 @@
   float: left;
 }
 
-.header h1 {
-  font-family: sans-serif;
-}
-
-
 ul {
   clear: both;
 }
@@ -18,5 +13,3 @@ ul {
   display: inline;
   padding-left: 5px;
 }
-
-
