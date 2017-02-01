@@ -3,3 +3,7 @@ width: 500px;
 height: 300px;
 float: left;
 }
+
+.pixelmon h1 {
+font-family: sans-serif;  
+}
