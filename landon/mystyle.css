@@ -1,11 +1,11 @@
 .pixelmon img {
-width: 750px;
-height: 422px;
+width: 1000px;
+height: 600px;
 float: left;
 }
 
 .pixelmon h1 {
 font-family: sans-serif;
   float: left;
-  margin-left: 10px;
+  margin-left: 640px;
 }
