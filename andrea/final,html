@@ -3,12 +3,12 @@
 <body>
 {
   background-color: red;
-  color: white:
+  color: red:
   text-align: center;
   font-style: italic;
   font-size: 16px;
   border-style: solid; 
-  border-color: purple;
+  border-color: black;
 }
 
 <div class="header">
