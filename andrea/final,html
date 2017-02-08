@@ -1,8 +1,16 @@
 <html>
 <head>
-
-</head>
 <body>
+{
+  background-color: red;
+  color: white:
+  text-align: center;
+  font-style: italic;
+  font-size: 16px;
+  border-style: solid; 
+  border-color: purple;
+}
+
 <div class="header">
 <a href="/">
 <ing src"https://urbanlegendsbp.files.wordpress.com/2013/11/urban_legends_24341_01.jpg"/>
@@ -15,5 +23,6 @@
 <li><a href="contact.html">Contact</a></li>
 </ul>
 </div>
+</head>
 </body>
 </html>
