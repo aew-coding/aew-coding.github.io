@@ -20,7 +20,7 @@ ul{
   list-style-type: none;
   display: inline;
   padding-left: 5px;
-  float: center;
+  position: relative;
   
 }
     
