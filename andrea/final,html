@@ -2,18 +2,7 @@
 <head>
 <link rel = "stylesheet" type = "text/css" href = "mystyle.css">
 <body>
-<div class="header">
-<a href="/">
-<ing src"https://urbanlegendsbp.files.wordpress.com/2013/11/urban_legends_24341_01.jpg"/>
-</a>
-<h1>Urban Legends</h1>
-<ul class = "nav">
-<li><a href="index.html">Home</a></li>
-<li><a href="about.html">About Us</a></li>
-<li><a href="gallery.html">Gallery</a></li>
-<li><a href="contact.html">Contact</a></li>
-</ul>
-</div>
+
 </body>
 </head>
 </html>
