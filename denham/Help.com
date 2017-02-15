@@ -1,14 +1,19 @@
+<html>
+<head>
+<link rel = "stylesheet" type = "text/css" href = "mystyle.css"
 <body>
-<div class="header">
-  <a href="/">
-    <img src="http://downloadicons.net/sites/default/files/upload-logo-icon-73898.png" style="width:250px;hight:250px;""position:absolute; TOP:0px; LEFT:0px;">     
-  </a>
-  <h1>How to Get Away wtih ANYTHING</h1>
-<ul class = "nav">
-  <li><a href="Tutorials.html">Home</a></li>
-  <li><a href="Upload_Video.html">About Us</a></li>
-  <li><a href="Make_Slideshow.html">Gallery</a></li>
-  <li><a href="Help.html">Contact Us</a></li>
-  </ul>
-  </div>
+<form>
+     What is you issue? <br>
+     <select name = "topic">
+     <option value="Uploading a Video"> Uploading a Video
+     </option>
+     <option value="Making a Slideshow"> Making A slideshow     
+     </select><br> <br>
+     Other? type here<br>
+     <input type="text" name="Other? Type Here"><br><br>
+     Email the Specifics <br>
+     <input type="text" name "Email the Specifics"> <br><br>
+</form>
 </body>
+</head>
+</html>
