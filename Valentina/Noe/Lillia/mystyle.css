@@ -1,6 +1,6 @@
 .header img{
-  width: 100px;
-  height: 100px;
+  width: 800px;
+  height: 600px;
   float: left;
 }
 
@@ -10,7 +10,4 @@
   margin-left;
   width: 640px
 }
-.header img{
-  width: 800px;
-  height: 600px;
-}
+
