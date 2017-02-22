@@ -22,7 +22,7 @@ ul {
 }
 .product {
     width: 200px
-    min-height: 200px
+    min-height: 200px;
     border: 1px solid block;
     padding: 5px;
     list-style: none;
