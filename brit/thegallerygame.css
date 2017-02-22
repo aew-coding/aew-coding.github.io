@@ -20,7 +20,7 @@ ul {
   display: inline;
   padding-left: 5px;
 }
-.product li{
+.product {
     width: 200px
     min-height: 200px
     border: 1px solid block;
