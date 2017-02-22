@@ -24,3 +24,12 @@ ul {
 body {
   background-color: red,
   }
+
+.product li {
+  width: px;
+  min-height: px;
+  border: px solid black; 
+  padding: px;
+  list-style: none; 
+  
+}
