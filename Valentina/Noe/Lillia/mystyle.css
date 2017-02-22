@@ -20,6 +20,10 @@
   min-height: 200px;
   vertical-align: right;
   margin: 5px;
-}
+  border: 1px solid black;
+  padding: 5px;
+  list-style: none;
+  display: inline-block;
+  }
 
 
