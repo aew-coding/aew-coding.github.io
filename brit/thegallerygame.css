@@ -15,14 +15,17 @@ ul {
   clear: both;
 }
 
-.nav{
+.nav li{
   list-style-type: none;
   display: inline;
   padding-left: 5px;
 }
 .product{
-    display: none;
     width: 200px
     min-height: 200px
-      border: 1px solid black;
+    border: 1px solid black;
+    padding: 5px;
+    list-style: none;
+    display: inline-block;
+    vertical-align: top;
 }
