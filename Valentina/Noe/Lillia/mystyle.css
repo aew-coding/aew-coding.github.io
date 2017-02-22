@@ -15,3 +15,9 @@
   float: center;
 }
 
+.product li {
+  width: 200px;
+  min-height: 200px;
+}
+
+
