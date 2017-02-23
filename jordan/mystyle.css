@@ -43,4 +43,9 @@ width: 640px;
  vertical-align: top;
 }
 
+.body {
+ border-color: blue;
+  font-family: verdana;
+}
+
 
