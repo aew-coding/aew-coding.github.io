@@ -7,7 +7,7 @@
 .header h1 {
   font-family:sans-serif;
   text-align: center;
-  margin-left;
+  margin: 0 auto;
   width: 640px
 }
 
