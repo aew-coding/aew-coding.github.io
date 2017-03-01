@@ -55,6 +55,11 @@ body {
 .header h3 {
  text-align: center; 
 }
+ .mailbox li {
+   text-align: right;
+   width: 100px;
+   min-height: 100px;
+}
 
  
 
