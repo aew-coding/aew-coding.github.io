@@ -9,12 +9,20 @@
     <h2>You can help this website by answering the following questions. (The same ones on the Google Form)</h2> <br>
     <form>
     What do you think of common core? <br>
-    <select name = "topic">
-      <option value = very good> Very good </option>
-       <option value = good> Good </option>   
-      <option value = bad> Bad </option>
-       <option value = very bad> Very bad </option>
-      </select><br><br>
+    <div class="dropdown">
+  <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+    Dropdown
+    <span class="caret"></span>
+  </button>
+  <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+    <li><a href="#">Very good</a></li>
+    <li><a href="#">Good</a></li>
+    <li><a href="#">Bad</a></li>
+    <li><a href="#">Very bad</a></li>
+    <li role="separator" class="divider"></li>
+    <li><a href="#">Separated link</a></li>
+  </ul>
+</div><br><br>
       Give one reason why you chose that answer.<br>
       <input type="text" name="Short answer"><br><br>
        How would you improve it? <br>
