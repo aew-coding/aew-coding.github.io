@@ -1,7 +1,7 @@
 .header img{
   width: 800px;
   height: 600px;
-  float: center;
+  text-align: center;
 }
 
 .header h1 {
@@ -49,7 +49,11 @@
   }
 
 body {
-  float: center;
+  text-align: center;
+}
+
+.header h3 {
+ text-align: center; 
 }
 
 
